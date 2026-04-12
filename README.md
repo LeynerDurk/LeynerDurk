@@ -94,7 +94,7 @@ Universidad Colegio Mayor del Cauca
 ---
 
 ## 📈 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeynerDurk&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeynerDurk&show_icons=true&theme=transparent&cache_seconds=60)
 
 ## 💬 Frase
 
