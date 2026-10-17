@@ -21,7 +21,7 @@ Estudiante de Ingeniería Informática | Data & Backend Developer
 ### 🗄️ Bases de datos
 - MySQL
 - Oracle SQL
-- SQL Relacional
+- SQL Server
 
 ### 📊 Data & BI
 - Power BI
